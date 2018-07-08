@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b073ce5d-b1bd-4448-b4b7-83cc979f6272" name="Default" comment="" />
+    <list default="true" id="b073ce5d-b1bd-4448-b4b7-83cc979f6272" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="douban_spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="douban_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/douban/spiders/douban_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="-47">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -91,6 +102,9 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -101,6 +115,7 @@
         <option value="$PROJECT_DIR$/douban/settings.py" />
         <option value="$PROJECT_DIR$/douban/spiders/douban_spider.py" />
         <option value="$PROJECT_DIR$/douban/middlewares.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -119,6 +134,7 @@
     <option name="width" value="1260" />
     <option name="height" value="742" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -136,12 +152,6 @@
               <item name="douban" type="462c0819:PsiDirectoryNode" />
               <item name="douban" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="douban" type="b2602c69:ProjectViewProjectNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,6 +164,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,14 +268,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="149" width="1260" height="742" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42015505" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39689922" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5379845" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15599343" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -396,11 +412,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/douban/spiders/douban_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        <state relative-caret-position="-47">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
